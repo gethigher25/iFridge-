@@ -1,2 +1,2 @@
-# iFridgeKR
-ТРИТПО
+# iFridge
+

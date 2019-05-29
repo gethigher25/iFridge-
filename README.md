@@ -82,7 +82,7 @@
 
 ## 2.2 Диаграмма компонентов
 
-![Диаграмма компонентов](/usecasediagram.png)
+![Диаграмма компонентов](/componentsdiagram.jpg)
 
 <a name="deployment"/>
 
